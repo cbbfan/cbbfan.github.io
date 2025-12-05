@@ -1,0 +1,2632 @@
+[
+  {
+    "text" : "Welcome to Scott Hasn't Seen, the podcast that explores the movie blind spots of deranged human beings, Scott Aukerman.",
+    "timestamp" : "00:19-00:24",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "I'm Sprague the Whisperer.",
+    "speaker" : "Speaker 1",
+    "timestamp" : "00:25-00:26"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "Oh, yeah. Hello, I'm Scott Aukerman.",
+    "timestamp" : "00:27-00:29"
+  },
+  {
+    "text" : "And you're probably confused.",
+    "timestamp" : "00:29-00:32",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "00:32-00:32",
+    "text" : "Like, why is this coming out?"
+  },
+  {
+    "timestamp" : "00:32-00:33",
+    "text" : "Why is this coming out?",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "What is this?",
+    "timestamp" : "00:33-00:34",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "00:34-00:34",
+    "text" : "Guess what?",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "00:34-00:36",
+    "speaker" : "Speaker 1",
+    "text" : "We're doing a little special episode."
+  },
+  {
+    "timestamp" : "00:36-00:37",
+    "speaker" : "Speaker 1",
+    "text" : "A mini-sode."
+  },
+  {
+    "timestamp" : "00:37-00:40",
+    "speaker" : "Speaker 1",
+    "text" : "A mini-sode that we like to call clearing the air."
+  },
+  {
+    "text" : "Clearing the air.",
+    "timestamp" : "00:40-00:41",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "Turn the fan on.",
+    "timestamp" : "00:41-00:42",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "00:42-00:43",
+    "text" : "Blow the smoke out of the kitchen."
+  },
+  {
+    "text" : "We look-",
+    "speaker" : "Speaker 2",
+    "timestamp" : "00:45-00:46"
+  },
+  {
+    "text" : "We've got to clear the air.",
+    "timestamp" : "00:46-00:47",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "We've got to clear the air because, you know, the format of our regular show-",
+    "timestamp" : "00:47-00:52"
+  },
+  {
+    "text" : "Yes.",
+    "speaker" : "Speaker 2",
+    "timestamp" : "00:52-00:53"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "00:53-00:57",
+    "text" : "Doesn't necessarily lend itself to the most nuanced conversations about certain things."
+  },
+  {
+    "timestamp" : "00:57-01:04",
+    "text" : "But, you know, we've sort of had to, at the end of shows that are already two hours, rush through our thoughts on Oscar movies.",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "Especially when you're talking about a movie that we're actually not covering on the podcast.",
+    "speaker" : "Speaker 1",
+    "timestamp" : "01:04-01:08"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "01:08-01:08",
+    "text" : "Yes."
+  },
+  {
+    "timestamp" : "01:08-01:10",
+    "text" : "You don't really get to get into it.",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Get to get into it.",
+    "timestamp" : "01:10-01:11"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "And so, Sprague.",
+    "timestamp" : "01:11-01:12"
+  },
+  {
+    "timestamp" : "01:12-01:12",
+    "text" : "Yes.",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "You were telling me there's a lot of chatter.",
+    "speaker" : "Speaker 2",
+    "timestamp" : "01:13-01:15"
+  },
+  {
+    "text" : "There's a little bit of chatter on the Discord.",
+    "timestamp" : "01:15-01:16",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "On the Discord and in other places about our responses to one movie in particular that's up for several Oscars this year called Killers.",
+    "timestamp" : "01:17-01:27"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "01:27-01:28",
+    "text" : "of the flower moon."
+  },
+  {
+    "timestamp" : "01:29-01:29",
+    "speaker" : "Speaker 1",
+    "text" : "That's right."
+  },
+  {
+    "timestamp" : "01:29-01:30",
+    "text" : "Martin Scorsese.",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "01:31-01:33",
+    "speaker" : "Speaker 1",
+    "text" : "Look, people are disappointed."
+  },
+  {
+    "timestamp" : "01:33-01:34",
+    "speaker" : "Speaker 2",
+    "text" : "People are mad."
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "That we've had mixed reactions to the film.",
+    "timestamp" : "01:34-01:37"
+  },
+  {
+    "text" : "And taking, because we haven't been able to get into it all that much,",
+    "speaker" : "Speaker 2",
+    "timestamp" : "01:38-01:42"
+  },
+  {
+    "text" : "taking what we're saying,",
+    "speaker" : "Speaker 2",
+    "timestamp" : "01:42-01:44"
+  },
+  {
+    "timestamp" : "01:44-01:46",
+    "speaker" : "Speaker 2",
+    "text" : "sort of assuming we're talking about one thing when we're not,"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "01:46-01:51",
+    "text" : "and we just want to clear the air here and talk about what we really think"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "01:51-01:52",
+    "text" : "about this movie that, look,"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "And this is a show featuring a conversation between one guy who went to the theater to see it and one guy who saw it at home in three different.",
+    "timestamp" : "01:53-02:00"
+  },
+  {
+    "text" : "Yeah.",
+    "timestamp" : "02:01-02:01",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "Three sittings.",
+    "timestamp" : "02:01-02:02",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "02:03-02:04",
+    "speaker" : "Speaker 2",
+    "text" : "So we're not experts."
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Yeah.",
+    "timestamp" : "02:04-02:04"
+  },
+  {
+    "text" : "In the least.",
+    "speaker" : "Speaker 2",
+    "timestamp" : "02:05-02:05"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "But look, we had complicated feelings about the movie.",
+    "timestamp" : "02:05-02:08"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "I think we both think the movie has problems.",
+    "timestamp" : "02:08-02:11"
+  },
+  {
+    "timestamp" : "02:11-02:13",
+    "speaker" : "Speaker 2",
+    "text" : "But the movie has a lot of great things."
+  },
+  {
+    "timestamp" : "02:13-02:14",
+    "speaker" : "Speaker 1",
+    "text" : "There's some good things in the movie as well."
+  },
+  {
+    "timestamp" : "02:15-02:16",
+    "text" : "But let's just get into it.",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "Let's clear the air.",
+    "speaker" : "Speaker 2",
+    "timestamp" : "02:16-02:17"
+  },
+  {
+    "text" : "Okay.",
+    "timestamp" : "02:18-02:18",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "02:18-02:29",
+    "speaker" : "Speaker 2",
+    "text" : "Because I think you and I had the, even though we saw it at different times and in different experiences, we had very similar reaction to one very big issue about the film that we had with it."
+  },
+  {
+    "timestamp" : "02:29-02:29",
+    "speaker" : "Speaker 2",
+    "text" : "Yes."
+  },
+  {
+    "text" : "Now, my biggest question coming out of watching this film is why tell the story that way?",
+    "speaker" : "Speaker 1",
+    "timestamp" : "02:30-02:38"
+  },
+  {
+    "text" : "Through the eyes of this particular character.",
+    "speaker" : "Speaker 2",
+    "timestamp" : "02:38-02:40"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Yes.",
+    "timestamp" : "02:40-02:41"
+  },
+  {
+    "text" : "That's how I, that's when the film ended.",
+    "speaker" : "Speaker 2",
+    "timestamp" : "02:41-02:44"
+  },
+  {
+    "timestamp" : "02:44-02:51",
+    "text" : "I had the exact same thing where I was confused almost because I really enjoyed quite a bit of it.",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "I think learning about all of this stuff happening was fascinating.",
+    "timestamp" : "02:51-02:56"
+  },
+  {
+    "timestamp" : "02:57-03:01",
+    "speaker" : "Speaker 2",
+    "text" : "Martin Scorsese can't help but direct something very excitingly."
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "So all the scenes are very exciting.",
+    "timestamp" : "03:01-03:03"
+  },
+  {
+    "text" : "And at the end of it, I said to myself, like, what is going on, though?",
+    "timestamp" : "03:04-03:07",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Like, why did I just spend three hours with this guy?",
+    "timestamp" : "03:08-03:11"
+  },
+  {
+    "timestamp" : "03:11-03:22",
+    "text" : "Yeah. And I think a lot of people are, we may have mentioned like, oh, the original book was based on Jesse Plemons' character, the investigator.",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "And we're not saying that that is the way that it should have been executed.",
+    "timestamp" : "03:22-03:26"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "03:26-03:43",
+    "text" : "I will say, though, the only reason that I'm like maybe interested in that take and and I and look, I understand since talking about the movie, we've I've done a little reading that the Osage community was a part of some of the creative decisions that were made."
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "And they definitely didn't want it to be about the investigator.",
+    "timestamp" : "03:44-03:48"
+  },
+  {
+    "text" : "They didn't want the white savior to come in and make the movie about him.",
+    "speaker" : "Speaker 1",
+    "timestamp" : "03:48-03:51"
+  },
+  {
+    "text" : "Well, let's talk about the process of making the movie because, you know, this is a story that exists.",
+    "timestamp" : "03:51-03:57",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "03:57-03:58",
+    "speaker" : "Speaker 2",
+    "text" : "It's historical, right?"
+  },
+  {
+    "timestamp" : "03:58-04:02",
+    "speaker" : "Speaker 2",
+    "text" : "So then as a filmmaker, you have to choose, like, what's the execution that I'm going to do?"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "04:03-04:06",
+    "text" : "Now, I think you and I, I don't want to speak for you, but I will."
+  },
+  {
+    "timestamp" : "04:08-04:10",
+    "speaker" : "Speaker 2",
+    "text" : "We're strong little boys."
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "No, we both think that the possibly correct way to tell the story would be through the eyes of the Osage community.",
+    "timestamp" : "04:11-04:20"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Yes.",
+    "timestamp" : "04:20-04:20"
+  },
+  {
+    "text" : "And through the characters that this affects most.",
+    "speaker" : "Speaker 2",
+    "timestamp" : "04:21-04:23"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Specifically Lily Gladstone.",
+    "timestamp" : "04:23-04:25"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Yes.",
+    "timestamp" : "04:25-04:25"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Like that is the movie that I am most interested in seeing.",
+    "timestamp" : "04:26-04:31"
+  },
+  {
+    "text" : "But here's the process of making a movie.",
+    "timestamp" : "04:32-04:34",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "That movie, if Martin Scorsese comes in and pitches Apple TV Plus, like, okay, I want to do this.",
+    "speaker" : "Speaker 2",
+    "timestamp" : "04:35-04:41"
+  },
+  {
+    "text" : "And tells the whole story, which I'm sure he did in the pitch.",
+    "timestamp" : "04:41-04:43",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "04:44-04:45",
+    "text" : "In like 30 seconds.",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "04:45-04:45",
+    "text" : "In 30 seconds.",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "And then says like, and here's what we're going to do.",
+    "speaker" : "Speaker 2",
+    "timestamp" : "04:45-04:48"
+  },
+  {
+    "text" : "We're going to do it through the eyes of Lily Gladstone's character.",
+    "timestamp" : "04:48-04:50",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "she's the main character without mentioning lily gladstone at the time just this character is the",
+    "timestamp" : "04:51-04:56",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "main character and everyone else is secondary apple tv plus probably says like uh that doesn't",
+    "speaker" : "Speaker 2",
+    "timestamp" : "04:56-05:04"
+  },
+  {
+    "timestamp" : "05:04-05:10",
+    "speaker" : "Speaker 2",
+    "text" : "sound like it's a movie for us because there are no movie stars in it uh why don't you try to you"
+  },
+  {
+    "text" : "know do like what you did with silence where it's like you get you know financed internationally or",
+    "timestamp" : "05:10-05:15",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "05:15-05:21",
+    "text" : "whatever and it's probably like a 10 million dollar budget or whatever that's not what scorsese wants"
+  },
+  {
+    "text" : "to do with this movie it's like you look at the budget of killers of the flower moon it's 200",
+    "timestamp" : "05:21-05:25",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "05:25-05:34",
+    "speaker" : "Speaker 2",
+    "text" : "million dollars yeah so he has to go in with a package right and and he has to go in with and"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "martin scorsese his his name does not open a film like this alone there was a period probably after",
+    "timestamp" : "05:34-05:41"
+  },
+  {
+    "text" : "Goodfellas where his name did open a film, but it was really the combo of him and De Niro was",
+    "timestamp" : "05:41-05:46",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "05:46-05:55",
+    "text" : "opening films. He very smartly found Leo DiCaprio after Titanic came to him and wanted to work with",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "05:55-05:59",
+    "text" : "him. And he very smartly worked out a collaboration with Leo DiCaprio where he's in several of his"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "films and that guarantees him the budget that he needs to make these films. Right. So he is",
+    "timestamp" : "05:59-06:06"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "06:06-06:12",
+    "text" : "developing this along with leo dicaprio the entire time with the intention of leo dicaprio"
+  },
+  {
+    "text" : "originally to play the jesse plemmons part um investigating this and it and that will guarantee",
+    "timestamp" : "06:12-06:20",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "you a 200 million dollar budget right so without leo dicaprio's involvement in this movie it goes",
+    "timestamp" : "06:20-06:27"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "away right and and so what what i was trying to say when i say like the choices when leo dicaprio",
+    "timestamp" : "06:27-06:31"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "gets involved, um, have, have made this movie different is something that William Goldman",
+    "timestamp" : "06:31-06:37"
+  },
+  {
+    "text" : "talks about in his second book on screenwriting, uh, called which lie did I tell where he talks",
+    "timestamp" : "06:38-06:43",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "06:44-06:49",
+    "text" : "about how sometimes for a movie, the worst thing that can happen to it is a star gets",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "attached because any, he brings up one of his movies, which is the ghost in the darkness,",
+    "timestamp" : "06:49-06:53",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "06:54-06:56",
+    "text" : "um, with Michael Douglas and Val Kilmer."
+  },
+  {
+    "text" : "Yes.",
+    "timestamp" : "06:57-06:57",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "06:57-06:58",
+    "text" : "This is the lion."
+  },
+  {
+    "timestamp" : "06:58-06:58",
+    "text" : "Yes.",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "In Africa movie.",
+    "timestamp" : "06:59-06:59"
+  },
+  {
+    "timestamp" : "07:00-07:00",
+    "speaker" : "Speaker 2",
+    "text" : "Yeah."
+  },
+  {
+    "timestamp" : "07:00-07:03",
+    "text" : "So he writes a really good script in his opinion.",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "I have no idea.",
+    "timestamp" : "07:03-07:04"
+  },
+  {
+    "timestamp" : "07:05-07:13",
+    "speaker" : "Speaker 2",
+    "text" : "But the Michael Douglas character in that is a minor character who gets killed and the purpose is a mystery."
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "And the purpose that he serves in the script is to make the other character seem like a badass.",
+    "timestamp" : "07:14-07:17"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Because if this lion kills the badass character, our main character, Val Kilmer, like what chance do they have?",
+    "timestamp" : "07:18-07:25"
+  },
+  {
+    "timestamp" : "07:25-07:25",
+    "speaker" : "Speaker 2",
+    "text" : "Right."
+  },
+  {
+    "timestamp" : "07:25-07:27",
+    "speaker" : "Speaker 2",
+    "text" : "But Val Kilmer ends up killing the lion or whatever."
+  },
+  {
+    "text" : "I don't know what the plot is.",
+    "timestamp" : "07:27-07:28",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "But Michael Douglas.",
+    "speaker" : "Speaker 2",
+    "timestamp" : "07:29-07:30"
+  },
+  {
+    "timestamp" : "07:31-07:33",
+    "speaker" : "Speaker 2",
+    "text" : "So the script is just like sitting there."
+  },
+  {
+    "timestamp" : "07:33-07:34",
+    "speaker" : "Speaker 2",
+    "text" : "No one's doing it."
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Michael Douglas reads it, goes, I love this.",
+    "timestamp" : "07:34-07:36"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "We're going to make this movie.",
+    "timestamp" : "07:38-07:38"
+  },
+  {
+    "timestamp" : "07:39-07:44",
+    "text" : "Suddenly you have a go picture because Michael Douglas is one of the biggest stars in the world and can open a movie.",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "07:44-07:47",
+    "text" : "And the combination of Val Kilmer and him gets the financing made.",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "07:48-07:49",
+    "text" : "But now you've got all this baggage."
+  },
+  {
+    "timestamp" : "07:50-07:59",
+    "text" : "So William Goldman and I have not been able to see a movie since then without thinking about this sometimes, which is with a star comes starshit.",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "right and comes the stars needs the film's needs get subjugated to whatever the star wants because",
+    "timestamp" : "07:59-08:05"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "without the star the movie it's not gonna get made yeah it won't get made so so what william",
+    "timestamp" : "08:05-08:10"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "uh uh wait who michael douglas what he wants to do is he wants to add some nuance to this character",
+    "timestamp" : "08:10-08:18"
+  },
+  {
+    "timestamp" : "08:19-08:25",
+    "speaker" : "Speaker 1",
+    "text" : "and gotta make it a meal for himself yes yeah i get it there's a selfishness to it but i also"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "think it's like you're taking care of your career the producers are supporting it because they're",
+    "timestamp" : "08:25-08:29"
+  },
+  {
+    "timestamp" : "08:29-08:33",
+    "text" : "like well we got to keep the star happy so let's do what does the star want all the time the star",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "wants to protect their brand which is why you see the rock like feuding with with uh yeah well also",
+    "timestamp" : "08:33-08:41",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "08:41-08:47",
+    "text" : "that that uh that story about hobson shaw about how like they they were it was math of how many"
+  },
+  {
+    "timestamp" : "08:47-08:53",
+    "text" : "punches that they could give and take like anytime you watch the rock in something you know you're",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "08:53-08:55",
+    "text" : "he's never going to look not heroic."
+  },
+  {
+    "timestamp" : "08:56-08:57",
+    "text" : "William Goldman talks about that,",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "08:57-09:01",
+    "text" : "where it's like with a star comes like a star wanting to be heroic.",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "And so when I watch a movie like King Kong,",
+    "timestamp" : "09:02-09:03"
+  },
+  {
+    "text" : "I think I bring this up a lot,",
+    "speaker" : "Speaker 2",
+    "timestamp" : "09:03-09:04"
+  },
+  {
+    "timestamp" : "09:05-09:06",
+    "speaker" : "Speaker 2",
+    "text" : "like Adrian Brody and King Kong,"
+  },
+  {
+    "text" : "there's no reason in the third hour of King Kong",
+    "speaker" : "Speaker 2",
+    "timestamp" : "09:06-09:08"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "09:09-09:10",
+    "text" : "for him to be driving around a taxi,"
+  },
+  {
+    "text" : "beeping at people going,",
+    "timestamp" : "09:11-09:12",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "get out of the way!",
+    "timestamp" : "09:12-09:13",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "King Kong's coming!",
+    "timestamp" : "09:13-09:14",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "09:16-09:16",
+    "text" : "Except like...",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "09:16-09:17",
+    "speaker" : "Speaker 2",
+    "text" : "You got the star."
+  },
+  {
+    "text" : "You got the star.",
+    "speaker" : "Speaker 2",
+    "timestamp" : "09:18-09:18"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "09:18-09:20",
+    "text" : "You got to have him do hero shit, right?"
+  },
+  {
+    "timestamp" : "09:20-09:21",
+    "text" : "It doesn't make any sense.",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "So Michael Douglas totally fucks up this movie by giving him a backstory and showing all of his backstory and like making him a humanizing character where he's like a Michael Douglas character.",
+    "timestamp" : "09:21-09:31"
+  },
+  {
+    "text" : "Now it totally fucks over the movie.",
+    "timestamp" : "09:31-09:32",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "09:32-09:32",
+    "speaker" : "Speaker 2",
+    "text" : "Right."
+  },
+  {
+    "text" : "So that's that's to me when I watch this and I go like, oh, and I read the fact that Leo DiCaprio got involved and said, hey, what if I play this guy instead?",
+    "speaker" : "Speaker 2",
+    "timestamp" : "09:34-09:42"
+  },
+  {
+    "text" : "That to me is like me going like, oh, I see what happened.",
+    "speaker" : "Speaker 2",
+    "timestamp" : "09:43-09:46"
+  },
+  {
+    "timestamp" : "09:46-09:49",
+    "speaker" : "Speaker 1",
+    "text" : "And and I there is some talk on the disc."
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "I don't know.",
+    "timestamp" : "09:49-09:50"
+  },
+  {
+    "timestamp" : "09:50-09:58",
+    "text" : "You know, I didn't do a ton of research here, but it feels like this is also based on a book and the book is centered around the investigator.",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "09:58-10:03",
+    "text" : "And I think when Scorsese went to the Osage community, they were like, please don't make it about this guy."
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "Right.",
+    "timestamp" : "10:04-10:04"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "So I understand making that choice.",
+    "timestamp" : "10:04-10:06"
+  },
+  {
+    "text" : "I think there's a little discrepancy of like Martin Scorsese said at one point said like, oh, what if we made it about the brother?",
+    "timestamp" : "10:06-10:14",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "10:14-10:16",
+    "text" : "And then Leo DiCaprio said, well, I could play the brother.",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "I don't think Scorsese is doing a whole draft without checking with Leo DiCaprio first to go like, what have you played the brother instead?",
+    "timestamp" : "10:17-10:23"
+  },
+  {
+    "text" : "I think it's like a mutual decision.",
+    "timestamp" : "10:23-10:25",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "10:26-10:31",
+    "text" : "But they they what they hear about the the the character, not brother.",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "10:31-10:34",
+    "text" : "He's not a brother, but he's like a part of the nephew or De Niro's family."
+  },
+  {
+    "text" : "Yeah.",
+    "timestamp" : "10:35-10:35",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "What they hear about him is like, oh, this guy was actually in love with his wife.",
+    "timestamp" : "10:36-10:40"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "And that is a hook.",
+    "timestamp" : "10:41-10:41"
+  },
+  {
+    "text" : "And I don't think that's a bad hook necessarily.",
+    "timestamp" : "10:42-10:43",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "10:45-10:52",
+    "speaker" : "Speaker 2",
+    "text" : "So they decide the movie's going to be told through this guy's eyes because Leo DiCaprio doesn't want to play just a boring FBI guy."
+  },
+  {
+    "text" : "Totally get it.",
+    "speaker" : "Speaker 2",
+    "timestamp" : "10:52-10:53"
+  },
+  {
+    "text" : "The Osage County is like, please don't make it about this guy, about the FBI.",
+    "speaker" : "Speaker 2",
+    "timestamp" : "10:53-10:57"
+  },
+  {
+    "text" : "We don't want the white savior in the movie, which I understand.",
+    "timestamp" : "10:57-10:59",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "11:00-11:08",
+    "speaker" : "Speaker 2",
+    "text" : "And I truly do believe that Martin Scorsese is trying to drogen horse all of this story into a movie that stars white people."
+  },
+  {
+    "text" : "You know, it's like it's got to star Leo DiCaprio.",
+    "speaker" : "Speaker 2",
+    "timestamp" : "11:08-11:10"
+  },
+  {
+    "timestamp" : "11:10-11:11",
+    "speaker" : "Speaker 2",
+    "text" : "Otherwise, it doesn't get made."
+  },
+  {
+    "text" : "And I think he does a good job of of telling this story.",
+    "timestamp" : "11:12-11:16",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "And I left going like, oh, my God, this is fascinating.",
+    "timestamp" : "11:16-11:19",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "So I think he did a great job and his intentions are pure with it.",
+    "timestamp" : "11:19-11:22"
+  },
+  {
+    "text" : "But you're forced by having Leo DiCaprio in this movie to tell a story of of of whatever Leo DiCaprio wants to play.",
+    "speaker" : "Speaker 2",
+    "timestamp" : "11:23-11:32"
+  },
+  {
+    "timestamp" : "11:33-11:36",
+    "speaker" : "Speaker 2",
+    "text" : "And Leo DiCaprio wants to protect his brand or he wants juicy scenes."
+  },
+  {
+    "text" : "Those are the things that are most important.",
+    "timestamp" : "11:36-11:38",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "11:38-11:40",
+    "text" : "They want like stars want Oscars."
+  },
+  {
+    "text" : "They want scenes where they're shouting at people.",
+    "timestamp" : "11:40-11:41",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "11:42-11:42",
+    "speaker" : "Speaker 1",
+    "text" : "Yeah."
+  },
+  {
+    "text" : "And to Leo's credit, he's willing to play a dastardly nasty guy.",
+    "speaker" : "Speaker 1",
+    "timestamp" : "11:42-11:46"
+  },
+  {
+    "text" : "Yeah.",
+    "timestamp" : "11:46-11:46",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Which works.",
+    "timestamp" : "11:47-11:47"
+  },
+  {
+    "timestamp" : "11:48-11:55",
+    "speaker" : "Speaker 2",
+    "text" : "And I think Leo DiCaprio is like not the worst offender when it comes to movie stars."
+  },
+  {
+    "text" : "Like The Rock.",
+    "speaker" : "Speaker 2",
+    "timestamp" : "11:55-11:56"
+  },
+  {
+    "text" : "I remember my friend wrote a movie recently and was told we're sending the first person",
+    "speaker" : "Speaker 2",
+    "timestamp" : "11:56-12:03"
+  },
+  {
+    "text" : "we're sending this to to star in it is The Rock.",
+    "speaker" : "Speaker 2",
+    "timestamp" : "12:03-12:04"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "And if he turns it down, the movie's dead.",
+    "timestamp" : "12:05-12:08"
+  },
+  {
+    "text" : "And that's the power that these guys have.",
+    "timestamp" : "12:08-12:11",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "12:11-12:13",
+    "speaker" : "Speaker 2",
+    "text" : "Leo DiCaprio is not the worst offender."
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "12:13-12:19",
+    "text" : "I think Tom Cruise is actually one of the best guys at it where like he views the movie as a movie."
+  },
+  {
+    "timestamp" : "12:19-12:21",
+    "speaker" : "Speaker 1",
+    "text" : "He wants to be the best he can be for the movie."
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Yes. And so like you look at Edge of Tomorrow, he's playing this like seedy con man kind of character who doesn't know what they're doing.",
+    "timestamp" : "12:22-12:29"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "12:30-12:33",
+    "text" : "Like you watch Mission Impossible and he'll do some of the stunts sometimes."
+  },
+  {
+    "timestamp" : "12:33-12:38",
+    "speaker" : "Speaker 2",
+    "text" : "And he's not doing it like The Rock does, which is like, yeah, of course I don't look cool."
+  },
+  {
+    "timestamp" : "12:38-12:42",
+    "speaker" : "Speaker 1",
+    "text" : "know he's like i need it to look difficult and he's like crashing through the window in the latest"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "mission impossible of the train and he's like stunned and going like i can't believe i'm alive",
+    "timestamp" : "12:42-12:48"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "12:48-12:52",
+    "text" : "you know it's like tom cruise i think is really good at it leo dicaprio is not the worst out of"
+  },
+  {
+    "text" : "because you watch the departed and like i still think it's a miracle that departed uh spoilers",
+    "timestamp" : "12:52-12:58",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "12:59-13:04",
+    "speaker" : "Speaker 2",
+    "text" : "uh that he allowed his character to be shot yeah 20 minutes before the end of the movie"
+  },
+  {
+    "timestamp" : "13:04-13:09",
+    "speaker" : "Speaker 2",
+    "text" : "uh i look at that and go like dude that's not movie starship that's also like the choice to"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "just show up in that tarantino movie is a real nasty racist guy like he he'll he'll take some",
+    "timestamp" : "13:09-13:14"
+  },
+  {
+    "timestamp" : "13:14-13:21",
+    "speaker" : "Speaker 1",
+    "text" : "chances so i'm not blaming anyone no it's in this but here's what i'll say one i don't want to have"
+  },
+  {
+    "timestamp" : "13:21-13:29",
+    "speaker" : "Speaker 1",
+    "text" : "to know everything about behind the scenes to get why a movie is good yeah and so i didn't know i"
+  },
+  {
+    "text" : "knew the osage community was a part of coming up with this but i didn't know all this backstory",
+    "timestamp" : "13:29-13:33",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "about it was about this guy and it ended up about this guy. Ultimately, here's my big problem with",
+    "speaker" : "Speaker 1",
+    "timestamp" : "13:33-13:39"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "13:39-13:46",
+    "text" : "it. Scorsese, good for you for wanting to tell this story, but it is not your story to tell."
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "Right. And we don't have enough native directors with the same clout as Scorsese to get a $200",
+    "timestamp" : "13:46-13:52"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "million movie made about it. So to Scorsese's credit, he's thinking, well, no one else can do",
+    "timestamp" : "13:52-13:58"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "it. So let me try. And truly, I do believe his intentions are pure with it. This is an important",
+    "timestamp" : "13:58-14:02"
+  },
+  {
+    "text" : "story to tell oh shit apple tv plus is going to give me 200 million to tell this story and my only",
+    "speaker" : "Speaker 2",
+    "timestamp" : "14:02-14:07"
+  },
+  {
+    "timestamp" : "14:07-14:12",
+    "text" : "thing i have to do is cast leo dicaprio great i think that's great but then the problem is because",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "14:13-14:19",
+    "text" : "he is not of native origin or even a person of color in any way he has to tell the story from a"
+  },
+  {
+    "text" : "perspective that he can safely tell the story from yes and one that the actor wants to play",
+    "speaker" : "Speaker 1",
+    "timestamp" : "14:19-14:24"
+  },
+  {
+    "timestamp" : "14:24-14:30",
+    "speaker" : "Speaker 1",
+    "text" : "any actor wants to play so it becomes a story about the white shitty people around this story"
+  },
+  {
+    "text" : "And the problem is there are more interesting stories happening in this movie that we do not get to see because the people making it don't feel comfortable diving into it.",
+    "timestamp" : "14:30-14:40",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "And I think ultimately, like, I think we were saying like, oh, I get why it was probably centered around the investigator.",
+    "timestamp" : "14:41-14:47",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "Only because in that sense, you will be discovering things about this world at the same time as the investigator.",
+    "timestamp" : "14:47-14:53"
+  },
+  {
+    "text" : "And to me, there's an impact in how hidden some of these things are in our own world.",
+    "speaker" : "Speaker 1",
+    "timestamp" : "14:54-14:58"
+  },
+  {
+    "text" : "so i understand why that that was probably how the book was centered well it's also",
+    "timestamp" : "14:58-15:03",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "probably a reason why the book was popular was you know it's this has been like dances with wolves",
+    "timestamp" : "15:03-15:10",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "the white savior thing has been you know we talked a lot about with green book is like why",
+    "timestamp" : "15:10-15:14"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "at what point can we put aside the white savior thing of getting people interested in like at what",
+    "timestamp" : "15:15-15:20"
+  },
+  {
+    "timestamp" : "15:20-15:25",
+    "speaker" : "Speaker 2",
+    "text" : "point can we say like hey we're just gonna make a movie about the story and leo dicaprio doesn't"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "15:25-15:29",
+    "text" : "have to be in it but i even but no one will go to but i even think the white savior thing is like"
+  },
+  {
+    "timestamp" : "15:29-15:34",
+    "text" : "in green book he's like he's one of the good ones energy yeah where the investigator didn't have to",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "be and i actually think it would have been better like i'm not saying we should have done this but",
+    "timestamp" : "15:34-15:37",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "if the investigator was investigating this one was kind of like oh no white people are doing it",
+    "timestamp" : "15:37-15:42",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "15:42-15:48",
+    "text" : "and was conflicted by that like to me that might be a more interesting story the most interesting"
+  },
+  {
+    "text" : "story in this whole thing is lily gladstone's character and her sister and her sister but",
+    "speaker" : "Speaker 1",
+    "timestamp" : "15:48-15:53"
+  },
+  {
+    "text" : "just the thing that like why is she falling in love with this white guy what is the like she's a",
+    "timestamp" : "15:53-15:59",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "15:59-16:04",
+    "text" : "she's rich and she's falling in love with this white guy here's my issue with because i think"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "there is a version of the movie that they made which is a little more successful for me like i",
+    "timestamp" : "16:04-16:09"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "left the movie going like why that guy mainly because they are not successful at what i think",
+    "timestamp" : "16:09-16:16"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "they're trying to do i think they truly are trying to make leo dicaprio seem conflicted i don't think",
+    "timestamp" : "16:16-16:22"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "16:22-16:28",
+    "text" : "they're succeeding no they i think leo dicaprio is obviously using her from the beginning they"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "16:28-16:34",
+    "text" : "they show him like starting to date her and then taking her money and gambling right away like he's"
+  },
+  {
+    "text" : "he kills the first investigator that came to be like he's obviously a piece of shit throughout",
+    "timestamp" : "16:34-16:38",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "this whole movie i think there is a version where he is truly in love with her and then",
+    "timestamp" : "16:38-16:46",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "And at a certain point, like he's happily married.",
+    "speaker" : "Speaker 2",
+    "timestamp" : "16:47-16:50"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "16:50-16:50",
+    "text" : "He loves his wife."
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "16:51-16:51",
+    "text" : "He loves his kids."
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "At a certain point, Robert De Niro comes to him and goes like, well.",
+    "timestamp" : "16:51-16:54"
+  },
+  {
+    "text" : "This is the plan.",
+    "speaker" : "Speaker 2",
+    "timestamp" : "16:54-16:55"
+  },
+  {
+    "text" : "This is the plan.",
+    "timestamp" : "16:55-16:56",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "Here we go.",
+    "timestamp" : "16:56-16:56",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "And then he's like, no, no, no, no.",
+    "timestamp" : "16:56-16:58"
+  },
+  {
+    "timestamp" : "16:58-16:59",
+    "text" : "You don't understand.",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "16:59-17:05",
+    "text" : "Like, and Robert De Niro says like, that's the whole reason that I brought you out here.",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "That's the whole thing our family does.",
+    "timestamp" : "17:05-17:07",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Or him being seduced by the money or something.",
+    "timestamp" : "17:08-17:11"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "17:11-17:15",
+    "text" : "But even at the same time, if that's what they're trying to do,"
+  },
+  {
+    "text" : "I'm just less interested in that.",
+    "speaker" : "Speaker 1",
+    "timestamp" : "17:15-17:17"
+  },
+  {
+    "timestamp" : "17:17-17:17",
+    "text" : "Yes.",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "No, because to me, to me, the story is about this is a community of people who were mostly oppressed all over the country.",
+    "speaker" : "Speaker 1",
+    "timestamp" : "17:17-17:25"
+  },
+  {
+    "text" : "And now they have all this money from this oil.",
+    "timestamp" : "17:26-17:29",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "17:29-17:36",
+    "text" : "And that that almost brings them more into like natural sort of white America.",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "Like this to me, it's a great story about how white supremacy will always try to find a way to win.",
+    "timestamp" : "17:36-17:43",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "And how you get hypnotized by it.",
+    "timestamp" : "17:43-17:45"
+  },
+  {
+    "timestamp" : "17:45-17:51",
+    "speaker" : "Speaker 1",
+    "text" : "How you as a person of color, when you start to gain success, start to think like, oh, well, I'm in all these white spaces."
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "17:51-17:52",
+    "text" : "I must be accepted now."
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "And you don't realize that you are being taken advantage of.",
+    "timestamp" : "17:52-17:55"
+  },
+  {
+    "timestamp" : "17:55-17:56",
+    "speaker" : "Speaker 1",
+    "text" : "That is an interesting story."
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "17:57-17:58",
+    "text" : "Sprague, I totally agree."
+  },
+  {
+    "text" : "I'm just saying if you need to tell it through this perspective because you have a huge movie star, which, by the way, did you ever see any of the TV spots where they were trying to sell this movie as a romance?",
+    "speaker" : "Speaker 2",
+    "timestamp" : "17:58-18:08"
+  },
+  {
+    "text" : "Yes. And I also saw a few of the spots that were selling this movie like a Goodfellas action like mob movie.",
+    "speaker" : "Speaker 1",
+    "timestamp" : "18:10-18:16"
+  },
+  {
+    "timestamp" : "18:16-18:27",
+    "text" : "It's kind of neither of those things. But the romance ones were so crazy because it was like they show basically like Leo DiCaprio driving her around in slow motion, like taking her hand.",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "I need you to help me kill the white man who killed my family. I'm like, oh, this is interesting.",
+    "timestamp" : "18:27-18:31"
+  },
+  {
+    "text" : "But they were like hyping it like it's a romance worthy of Titanic.",
+    "speaker" : "Speaker 2",
+    "timestamp" : "18:31-18:35"
+  },
+  {
+    "timestamp" : "18:35-18:42",
+    "text" : "Yeah, I thought the movie was going to be, oh, at a certain point, he realizes the wrongs he's done and he turns on his family and kills all of them.",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "18:42-18:42",
+    "text" : "Nope, doesn't happen."
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "No. And then and then you read the actual stuff about this guy.",
+    "timestamp" : "18:43-18:46"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "And no, he was just a piece of shit who did this.",
+    "timestamp" : "18:46-18:48"
+  },
+  {
+    "text" : "You know, it's like, why tell this guy's story?",
+    "timestamp" : "18:48-18:50",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "18:50-18:54",
+    "text" : "So there are so many layers as to why this movie ends up being made the way it is.",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "And for me, as just a movie watcher that doesn't want to have to pay attention to all these other things, I'm like, there is a better movie buried.",
+    "timestamp" : "18:55-19:02",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "19:02-19:05",
+    "text" : "There are multiple better movies buried in what was made.",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "19:05-19:14",
+    "text" : "And a lot of the discourse that I've seen of criticisms of our talking about this movie is that we don't understand what Scorsese was going for.",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "And there's a lot of talk about like it's actually a meditation on his own work and how he's exploited violence for his.",
+    "timestamp" : "19:15-19:22",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "And I'm like, why is any of that interesting?",
+    "timestamp" : "19:22-19:25"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "Why do you interpret this movie as something about Scorsese?",
+    "timestamp" : "19:25-19:29"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "I don't care.",
+    "timestamp" : "19:29-19:29"
+  },
+  {
+    "text" : "And a lot of people are like, oh, well, the final radio play scene.",
+    "timestamp" : "19:30-19:33",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "19:34-19:37",
+    "text" : "Like, what do you interpret the meaning of that scene, Scott?"
+  },
+  {
+    "text" : "Because I feel like there's a lot of talk about this final scene and how it ties it all up.",
+    "speaker" : "Speaker 1",
+    "timestamp" : "19:37-19:40"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "I know some people think that it ties it up perfectly.",
+    "timestamp" : "19:41-19:43"
+  },
+  {
+    "timestamp" : "19:43-19:52",
+    "text" : "I think some people's opinion of it is like it's a meditation on Scorsese saying, like, why is it us who are telling these stories when they should be telling?",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "19:53-19:55",
+    "text" : "I didn't I didn't feel like it succeeded.",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "Even if that is what he's going for and is successful at, don't you understand that you're part of the problem?",
+    "timestamp" : "19:56-20:02",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "Like, why don't you go support a native filmmaker to make this movie as opposed to having to be the one to do it?",
+    "timestamp" : "20:03-20:09"
+  },
+  {
+    "timestamp" : "20:10-20:12",
+    "speaker" : "Speaker 1",
+    "text" : "And look, I also think he could have."
+  },
+  {
+    "timestamp" : "20:13-20:17",
+    "speaker" : "Speaker 2",
+    "text" : "I don't begrudge Scorsese for wine to tell this story if he told it through their eyes."
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "20:18-20:23",
+    "text" : "Like, I think that look, I think I think someone like Scorsese going like, look, I can get a movie made."
+  },
+  {
+    "text" : "I can get I can get 10 million for this.",
+    "timestamp" : "20:23-20:25",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "Probably it's not going to be a 200 million thing.",
+    "timestamp" : "20:25-20:27",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "But, you know, like, let's make this movie.",
+    "timestamp" : "20:28-20:30"
+  },
+  {
+    "text" : "I think I think I don't begrudge him.",
+    "timestamp" : "20:30-20:32",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "I would be like, oh, good for him.",
+    "speaker" : "Speaker 2",
+    "timestamp" : "20:32-20:33"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "And I don't want to say he's wrong for making the movie.",
+    "timestamp" : "20:33-20:36"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "I just think ultimately my problem with the movie is that it is just kind of warped through the Hollywood machine that you even described.",
+    "timestamp" : "20:36-20:45"
+  },
+  {
+    "text" : "And it just gets further and further away from what I find the interesting parts of the story is.",
+    "speaker" : "Speaker 1",
+    "timestamp" : "20:45-20:50"
+  },
+  {
+    "text" : "Like, I don't think I'm in the perspective of the Osage community almost at all in the movie.",
+    "timestamp" : "20:50-20:55",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "20:55-20:57",
+    "speaker" : "Speaker 1",
+    "text" : "I feel like we're watching them deal with this."
+  },
+  {
+    "text" : "We've talked about it on a future episode about how we feel like Lily Gladstone, while deservedly getting a lot of acclaim for the role, is not given enough to do to where maybe she should even be in contention for best actress.",
+    "timestamp" : "20:57-21:08",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "I don't understand why she falls in love with Leo DiCaprio, which I feel like is maybe the most interesting turn in this.",
+    "timestamp" : "21:08-21:14",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "And the other part of it is, is I think they're saying Leo DiCaprio fell in love with her for her money and never, there's never any nuance.",
+    "timestamp" : "21:14-21:21"
+  },
+  {
+    "timestamp" : "21:21-21:28",
+    "text" : "not that like he's a great performer so i guess i'm believing some of his like oh i do love her",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "every once in a while they'll show a shot of him kind of going like yeah you know which i don't",
+    "speaker" : "Speaker 2",
+    "timestamp" : "21:28-21:33"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "think does it to me at the end of it i was like kept going where's the where's the part where he",
+    "timestamp" : "21:33-21:39"
+  },
+  {
+    "text" : "at least has some redeeming feature of like does he actually love her and i could i kept going like",
+    "speaker" : "Speaker 2",
+    "timestamp" : "21:39-21:45"
+  },
+  {
+    "timestamp" : "21:45-21:48",
+    "speaker" : "Speaker 2",
+    "text" : "i think they're trying to imply that he actually loves her and then by the end of it i was like"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "well no they just showed him like whacking all of her family and yeah and and gambling with her",
+    "timestamp" : "21:49-21:54"
+  },
+  {
+    "timestamp" : "21:54-22:00",
+    "text" : "money they never showed him ever and then when she's like because i think i think in this execution",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "there's a scene where like and it's a good actor scene i don't know why it's not in here where she",
+    "speaker" : "Speaker 2",
+    "timestamp" : "22:00-22:04"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "says like were you trying to poison me it's it's done so subtly and so like she barely act like",
+    "timestamp" : "22:04-22:11"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "it's crazy when they do it what if he's like yes but look i do love you like like if there was",
+    "timestamp" : "22:11-22:18"
+  },
+  {
+    "text" : "instead he just he's a total piece of shit and he goes like no i didn't do that it's like we're",
+    "timestamp" : "22:18-22:23",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "watching a movie called the total piece of shit which is an interesting movie i would probably go",
+    "timestamp" : "22:23-22:28"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "to but it's kind of like you know i i would totally watch it but and i and i think there are people",
+    "timestamp" : "22:28-22:32"
+  },
+  {
+    "timestamp" : "22:32-22:37",
+    "speaker" : "Speaker 2",
+    "text" : "who are interested in like no i like going to see a movie about a total piece of shit and it's not"
+  },
+  {
+    "timestamp" : "22:37-22:44",
+    "text" : "like i don't like anti-hero stuff i just because like something like the shield right uh did you",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "22:44-22:48",
+    "speaker" : "Speaker 2",
+    "text" : "ever watch the shield seen some of it chickless chickless yeah so that's got one of the greatest"
+  },
+  {
+    "timestamp" : "22:48-22:56",
+    "speaker" : "Speaker 2",
+    "text" : "uh, final episodes, I think of any TV show in modern, um, history, but it's shield spoilers."
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "22:56-23:04",
+    "text" : "So, um, great opening episode where the guy that you're, your audience surrogate, the guy that"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "23:04-23:08",
+    "text" : "we're watching, he's a cop, he's out there on the street, he's sort of beating up people,"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "but he's doing stuff that you've seen on NYPD blue. And it's not that bad. It's just like,",
+    "timestamp" : "23:08-23:13"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "well he's good he's you know like playing by his own rules but it's fine the end of episode one",
+    "timestamp" : "23:13-23:19"
+  },
+  {
+    "timestamp" : "23:19-23:24",
+    "text" : "um there's been a a character played by a like a big actor from homicide life on the street that",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "23:24-23:31",
+    "text" : "you think is a one of the main guys he's in the opening credits and everything he is a mole sent"
+  },
+  {
+    "text" : "to uh from internal internal affairs to to figure out like hey this team of cops is like uh breaking",
+    "speaker" : "Speaker 2",
+    "timestamp" : "23:31-23:39"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "23:39-23:43",
+    "text" : "the law chickless at the end of episode one like just straight up shoots him in the head"
+  },
+  {
+    "timestamp" : "23:44-23:51",
+    "text" : "which is like holy shit yeah this is not the the character that we're supposed to be following",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "usually right and it's great um episode the very last episode um is just one of the greatest",
+    "timestamp" : "23:51-23:57",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "wrap-ups of it where um long story short he he's called upon to inform on a bigger crime that's",
+    "timestamp" : "23:58-24:06",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "happening and he does what they call a proffer which is he uh offers the information that he's",
+    "timestamp" : "24:06-24:11"
+  },
+  {
+    "timestamp" : "24:11-24:14",
+    "speaker" : "Speaker 2",
+    "text" : "going to tell the investigators of like here's what i know about the crime if you'll give me"
+  },
+  {
+    "timestamp" : "24:14-24:20",
+    "speaker" : "Speaker 2",
+    "text" : "immunity they give him full immunity for everything as long as he and and part of the part of what they"
+  },
+  {
+    "text" : "one has to do when you you're doing this is you have to be totally honest about everything all",
+    "speaker" : "Speaker 2",
+    "timestamp" : "24:21-24:26"
+  },
+  {
+    "text" : "the crimes you all the crimes you ever the the the thing they use all the time is like if you even",
+    "timestamp" : "24:26-24:30",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "24:31-24:36",
+    "speaker" : "Speaker 2",
+    "text" : "jaywalked you got to bring that up because if they find anything that you've ever done the deal's"
+  },
+  {
+    "timestamp" : "24:36-24:42",
+    "speaker" : "Speaker 2",
+    "text" : "off the deal's off so you see him like go okay here we go and then he basically they don't show"
+  },
+  {
+    "timestamp" : "24:42-24:46",
+    "speaker" : "Speaker 2",
+    "text" : "it but he recounts everything that he did in the past six years starting with shooting this cop in"
+  },
+  {
+    "text" : "the head that they don't they have no idea about and you see at the end the investigators are just",
+    "speaker" : "Speaker 2",
+    "timestamp" : "24:46-24:53"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "like looking at him with disgust and they're like you're a total fucking piece of shit but he has",
+    "timestamp" : "24:53-24:59"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "24:59-25:05",
+    "text" : "immunity yeah and he can't even they can't even fire him but they they bust him down to a desk"
+  },
+  {
+    "text" : "job so you see him like in in downtown la in the very last scene he's got a desk job nine to five",
+    "speaker" : "Speaker 2",
+    "timestamp" : "25:06-25:12"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "he has to be there but he's a cop like being a cop is so important to him suddenly he hears sirens",
+    "timestamp" : "25:12-25:19"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "out on the street and he like instinctively reaches for his gun and his shield and he's like",
+    "timestamp" : "25:19-25:23"
+  },
+  {
+    "timestamp" : "25:24-25:27",
+    "text" : "oh that's right that's not me anymore that's not me anymore he just kind of sighs and that's the",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "end it's so great because it's like morally ambiguous you what we want is an audience member",
+    "timestamp" : "25:27-25:33",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "is like we want justice so you want to see him get like his comeuppance and and you often see",
+    "timestamp" : "25:33-25:39"
+  },
+  {
+    "text" : "cops as the good guys so to see him as the as sort of a bad anti-hero like i understand why that",
+    "timestamp" : "25:40-25:45",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "25:45-25:50",
+    "text" : "story so we're not saying like we don't like stuff with anti-heroes um and i think there's maybe a"
+  },
+  {
+    "text" : "good movie out there with leo dicaprio as the anti-hero i just don't think that they they the",
+    "timestamp" : "25:50-25:55",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "25:55-26:01",
+    "text" : "preponderance of it they didn't show us enough of him actually being a person who loves her or they",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "love each other or he's just a scumbag the entire way through. I think a lot of people will just say",
+    "timestamp" : "26:01-26:06",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "26:07-26:12",
+    "speaker" : "Speaker 1",
+    "text" : "this movie was trying to inform the world about this bad thing that happened. Yes. And I understand"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "26:12-26:16",
+    "text" : "that. And it does that. And I think it's very successful. It does that. But there are other"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "ways to do it. And I think it's centered too much on the white experience, in my opinion.",
+    "timestamp" : "26:16-26:21"
+  },
+  {
+    "timestamp" : "26:21-26:29",
+    "text" : "I feel like it's a movie that is the Osage community is a part of it. Obviously, they were",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "part of some of the conceiving of what was happening. But to me, they feel like...",
+    "timestamp" : "26:28-26:33"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "And they're probably glad the story is out there.",
+    "timestamp" : "26:33-26:35"
+  },
+  {
+    "text" : "Absolutely. They feel to me like an honored afterthought is the way I've thought about it.",
+    "timestamp" : "26:35-26:40",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "Well, one could also have this discussion about Watchmen, the HBO series, about like,",
+    "timestamp" : "26:40-26:45",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "no one really knew about the Tulsa massacre until this came out.",
+    "speaker" : "Speaker 2",
+    "timestamp" : "26:46-26:48"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "But guess what? They show us the Tulsa massacre through the eyes of two little boys living in",
+    "timestamp" : "26:49-26:54"
+  },
+  {
+    "text" : "that world yes so like in order to understand what the impact was i had to live with those people",
+    "speaker" : "Speaker 1",
+    "timestamp" : "26:54-27:00"
+  },
+  {
+    "timestamp" : "27:01-27:07",
+    "speaker" : "Speaker 1",
+    "text" : "i don't feel like the impact of it is hitting in the way it does because i just am not you're seeing"
+  },
+  {
+    "timestamp" : "27:07-27:11",
+    "text" : "some of you're seeing some of the funerals yeah you're seeing some people be sad but they're all",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "27:11-27:17",
+    "text" : "but then it cuts to leo dicaprio going like yeah it's just not i'm not getting the actual"
+  },
+  {
+    "timestamp" : "27:18-27:23",
+    "speaker" : "Speaker 1",
+    "text" : "like preponderance of what this story meant to the people on the ground that it was happening to"
+  },
+  {
+    "text" : "and even Lily Glaston is a character that it is happening to.",
+    "timestamp" : "27:23-27:27",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "I don't think they give her enough to have a reaction to it.",
+    "speaker" : "Speaker 1",
+    "timestamp" : "27:27-27:32"
+  },
+  {
+    "timestamp" : "27:32-27:34",
+    "text" : "She doesn't finally come to the understanding",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "that this was all happening to her till the very end.",
+    "timestamp" : "27:34-27:37"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "And maybe she was suspecting, but they never give us anything.",
+    "timestamp" : "27:37-27:39"
+  },
+  {
+    "timestamp" : "27:40-27:42",
+    "speaker" : "Speaker 2",
+    "text" : "They don't give her a scene of like,"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "motherfucker, you were poisoning me.",
+    "timestamp" : "27:43-27:44"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "I find that, you know, it's just like her intentions in the movie are very hard to read.",
+    "timestamp" : "27:45-27:49"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "Because you're not focusing on it.",
+    "timestamp" : "27:49-27:51"
+  },
+  {
+    "text" : "asks her like are you gonna marry that guy and she's sort of like oh yeah all the white guys are",
+    "timestamp" : "27:51-27:55",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "bad or something like that but well i don't know i just didn't yeah i i think there's maybe an",
+    "speaker" : "Speaker 2",
+    "timestamp" : "27:55-28:00"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "execution where these two people actually care about each other and then he's he's seduced by",
+    "timestamp" : "28:00-28:06"
+  },
+  {
+    "timestamp" : "28:06-28:10",
+    "speaker" : "Speaker 2",
+    "text" : "the dark side a little bit more but it to me it was it it was a little like honestly"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "this is a people are gonna hit me for this comparison it was a little like attack of the",
+    "timestamp" : "28:12-28:16"
+  },
+  {
+    "text" : "clones we're like i don't know why i think that's where you would go i don't know why these two",
+    "timestamp" : "28:16-28:22",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "they're trying to sell together they're trying to sell a romance that i'm not buying and then",
+    "timestamp" : "28:23-28:26"
+  },
+  {
+    "timestamp" : "28:26-28:32",
+    "speaker" : "Speaker 2",
+    "text" : "they're trying to sell anakin getting upset and turning into darth vader in a way that i'm not"
+  },
+  {
+    "text" : "buying and it's it's kind of like that for me where and i understand people saying like oh",
+    "speaker" : "Speaker 1",
+    "timestamp" : "28:32-28:36"
+  },
+  {
+    "text" : "he didn't want to make up stuff that didn't happen i hear that too i just think we can be in the",
+    "speaker" : "Speaker 1",
+    "timestamp" : "28:37-28:41"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "perspective of the right characters but look at the end of the day i'm not the biggest fan of",
+    "timestamp" : "28:41-28:46"
+  },
+  {
+    "timestamp" : "28:46-28:51",
+    "speaker" : "Speaker 1",
+    "text" : "and I think there are people who love him and want to honor all the work he makes and as a director"
+  },
+  {
+    "text" : "like you said it's fucking easy to watch it's fun there's like cool shots there's a lot of great",
+    "speaker" : "Speaker 1",
+    "timestamp" : "28:51-28:56"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "directing in it acting is good if you were to ask me like in our normal show like are you glad you",
+    "timestamp" : "28:57-29:02"
+  },
+  {
+    "timestamp" : "29:02-29:06",
+    "speaker" : "Speaker 2",
+    "text" : "saw before he died I would say yes because I'm I there was enough in there there I was like oh"
+  },
+  {
+    "timestamp" : "29:06-29:11",
+    "speaker" : "Speaker 2",
+    "text" : "that's really cool I just even for just learning about the story yeah but um I think it's you know"
+  },
+  {
+    "text" : "it's interesting to talk about this is this is the thing the reason we're doing this is like",
+    "speaker" : "Speaker 2",
+    "timestamp" : "29:11-29:15"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "29:16-29:20",
+    "text" : "it's interesting for us to talk about film and like every film is a work of art and i think i"
+  },
+  {
+    "text" : "think a lot of and and look the format of our show plays into this people were mad at siskel and",
+    "speaker" : "Speaker 2",
+    "timestamp" : "29:20-29:25"
+  },
+  {
+    "timestamp" : "29:25-29:29",
+    "text" : "ebert of like thumbs up thumbs down yeah because that's such a binary such a binary thing we do the",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "same thing for humor's sake of like am i glad i watched this before i died like there's nuance",
+    "timestamp" : "29:29-29:34",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "yeah there's stuff to take away from a lot of these movies that we've watched a film where i'm",
+    "timestamp" : "29:34-29:37"
+  },
+  {
+    "text" : "like no i'm not glad i saw it before i died yeah i can take away stuff from those you know but put a",
+    "speaker" : "Speaker 2",
+    "timestamp" : "29:37-29:43"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "line in one of your scripts but i think i think so much of like people talking about film these days",
+    "timestamp" : "29:43-29:47"
+  },
+  {
+    "timestamp" : "29:47-29:52",
+    "text" : "is like these two extremes where people go like that was the biggest piece of shit i ever saw or",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "that was a masterpiece and if you think it was a piece of shit well you're wrong or if you have",
+    "timestamp" : "29:52-29:57"
+  },
+  {
+    "text" : "any criticism of it you're wrong and i think it's interesting to look at these films by some of the",
+    "speaker" : "Speaker 2",
+    "timestamp" : "29:57-30:03"
+  },
+  {
+    "timestamp" : "30:03-30:13",
+    "text" : "masters yeah of of the genre um or the medium rather um and just be honest about our opinions",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "and at the end of the day i do not think scorsese is a bad director i'm just not interested in a lot",
+    "timestamp" : "30:13-30:19",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "30:19-30:23",
+    "text" : "of the stories he's interested in telling and that's my biggest criticism but also you don't"
+  },
+  {
+    "text" : "you don't have a wide breadth of knowledge about some of the like like the more different ones",
+    "timestamp" : "30:23-30:30",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "like say after hours no i haven't seen those but yeah we recently watched uh uh alice doesn't live",
+    "timestamp" : "30:30-30:36"
+  },
+  {
+    "timestamp" : "30:36-30:39",
+    "speaker" : "Speaker 1",
+    "text" : "here and i think like that's an interesting one where i'm like you know what this is subject"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "30:40-30:44",
+    "text" : "matter that i yeah i'm more attracted to but some of his bigger movies i kind of don't care about"
+  },
+  {
+    "timestamp" : "30:44-30:48",
+    "text" : "but i can understand like people out there going like no and and we're not even saying if you like",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "killers of the flower moon you're wrong or whatever because i don't think there's anything",
+    "timestamp" : "30:48-30:51"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "constructive in a conversation like that yeah i i think that it's like you know i understand how it",
+    "timestamp" : "30:52-30:59"
+  },
+  {
+    "text" : "is when you love a thing like like when we did uh the unforgiven episode like i i feel that's about",
+    "timestamp" : "30:59-31:06",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "31:06-31:12",
+    "speaker" : "Speaker 2",
+    "text" : "as perfect as a movie can get and so to hear you like talk about how silly it was you know i got"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "31:12-31:18",
+    "text" : "my dander up a little where i was like i was where i was like does this guy even like take the show"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "31:18-31:23",
+    "text" : "seriously and i still feel that way well yeah i mean i'm obviously taking the show very seriously"
+  },
+  {
+    "text" : "but but it's like it's okay to have different opinions on these things and i will admit",
+    "timestamp" : "31:23-31:27",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "Sometimes the way I talk about Scorsese, he can feel a little flippant and like, fuck off.",
+    "timestamp" : "31:27-31:31"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "31:31-31:38",
+    "text" : "And that's maybe just because I feel like some of his fans try to shove things down my throat where I'm like, I didn't quite like that one."
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "And then they call me an idiot or something.",
+    "timestamp" : "31:38-31:39"
+  },
+  {
+    "text" : "I'm like, all right, well, I can't like any of them now.",
+    "speaker" : "Speaker 1",
+    "timestamp" : "31:39-31:42"
+  },
+  {
+    "text" : "I also do think it's really interesting.",
+    "timestamp" : "31:42-31:43",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Our Raging Bull episode for this is a movie I've seen five, six times or whatever.",
+    "timestamp" : "31:43-31:48"
+  },
+  {
+    "text" : "And even Nelson that we did it with to re-approach it at a different time in your life where I was like, oh, I think when I saw this at 20.",
+    "speaker" : "Speaker 2",
+    "timestamp" : "31:48-31:57"
+  },
+  {
+    "timestamp" : "31:58-32:04",
+    "speaker" : "Speaker 2",
+    "text" : "just the machismo in it and the coolness of it like blinded me to the fact that like it's kind"
+  },
+  {
+    "timestamp" : "32:04-32:09",
+    "text" : "of an empty experience at the end of it um i don't know i just think that's interesting to",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "32:09-32:14",
+    "speaker" : "Speaker 2",
+    "text" : "talk about that kind of stuff instead of taking everything as like an unassailable work of"
+  },
+  {
+    "timestamp" : "32:14-32:20",
+    "text" : "masterpiece you know i just don't think killers of the flower moon had like what a movie like the",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "godfather had which is a character changing really yeah you know like like michael corleone comes in",
+    "timestamp" : "32:20-32:27"
+  },
+  {
+    "timestamp" : "32:27-32:31",
+    "text" : "to that as a war hero, a guy who loves his family members, but hates what his family does.",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "And then, uh, is telling his wife that there's no way he's going to get sucked up in this. And then",
+    "timestamp" : "32:32-32:39",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "by the end of the movie, he's sucked up in the, in the crime family and he shuts the door on his",
+    "timestamp" : "32:39-32:42",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "wife. So to create a literal barrier between them, that to me is like change that Leo DiCaprio's",
+    "timestamp" : "32:43-32:48"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "32:48-32:54",
+    "text" : "character never went through. He just kind of like was shifty and an asshole. And then at the"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "end even. He got his comeuppance.",
+    "timestamp" : "32:54-32:56"
+  },
+  {
+    "text" : "Yeah. Which I feel like sometimes is like,",
+    "speaker" : "Speaker 1",
+    "timestamp" : "32:56-32:58"
+  },
+  {
+    "text" : "oh yeah, but don't you see at the end of the movie he got arrested?",
+    "timestamp" : "32:58-33:00",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "I'm like, okay.",
+    "timestamp" : "33:00-33:01",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "Yeah, I guess that proves that it was all wrong.",
+    "timestamp" : "33:02-33:04",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "33:04-33:06",
+    "speaker" : "Speaker 2",
+    "text" : "Everyone in any period movie is dead by now."
+  },
+  {
+    "text" : "It seems that they",
+    "timestamp" : "33:06-33:08",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "must have been wrong. Everyone got their comeuppance technically.",
+    "timestamp" : "33:08-33:10"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "33:11-33:12",
+    "text" : "Well, do you feel like the air"
+  },
+  {
+    "timestamp" : "33:12-33:14",
+    "text" : "is cleared? I feel like we cleared the air.",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "I feel like we're",
+    "timestamp" : "33:14-33:15"
+  },
+  {
+    "text" : "this is the first time we've done it, but just",
+    "timestamp" : "33:16-33:18",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "according to you, the",
+    "speaker" : "Speaker 2",
+    "timestamp" : "33:18-33:20"
+  },
+  {
+    "text" : "pushback, we just want to make sure our",
+    "timestamp" : "33:20-33:22",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "thoughts on it were clear yeah i don't want people to think that we're shitting on like there's a lot",
+    "timestamp" : "33:22-33:26"
+  },
+  {
+    "text" : "of people that are like oh you're shitting on the film bros it's like i'm not shitting on anyone my",
+    "speaker" : "Speaker 1",
+    "timestamp" : "33:26-33:30"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "opinion is this your opinion can be that take it or leave it just don't say we don't understand",
+    "timestamp" : "33:31-33:36"
+  },
+  {
+    "text" : "the movie i think we get it no it reminds me of uh when i saw the movie in the company of men",
+    "timestamp" : "33:36-33:42",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "33:43-33:49",
+    "text" : "um which i don't know if you've seen but neil labute movie and um it was being sort of it",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "33:49-33:53",
+    "text" : "got really good reviews and so i went to see it and i was like sort of appalled by it honestly i"
+  },
+  {
+    "timestamp" : "33:53-34:00",
+    "speaker" : "Speaker 2",
+    "text" : "was kind of like it's it's all about two very misogynistic men who i think they it's been a"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "minute since i've seen it but i think they have a competition or something about you know sleeping",
+    "timestamp" : "34:00-34:03"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "34:03-34:09",
+    "text" : "with women or something like that and they technically get their comeuppance in it but it"
+  },
+  {
+    "timestamp" : "34:09-34:15",
+    "speaker" : "Speaker 2",
+    "text" : "is literally just two hours of characters being misogynistic and i was like i feel like this is"
+  },
+  {
+    "text" : "an excuse for the director who also wrote it to just do all of do misogyny yeah and oh oh they",
+    "timestamp" : "34:15-34:21",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "got their comeuppance at the end you know so i i had that response to it and then i saw um someone",
+    "timestamp" : "34:21-34:28"
+  },
+  {
+    "text" : "that i knew at a party and they were like did you see in the company of men wasn't it incredible and",
+    "timestamp" : "34:28-34:33",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "i gave my sort of nuanced in my opinion take on it and the person just looked at me and went",
+    "timestamp" : "34:33-34:39"
+  },
+  {
+    "text" : "yeah some people just don't understand and walked away and i was like motherfucker i understand",
+    "timestamp" : "34:39-34:44",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "I'm better than you.",
+    "timestamp" : "34:44-34:45"
+  },
+  {
+    "timestamp" : "34:45-34:45",
+    "speaker" : "Speaker 2",
+    "text" : "Yeah."
+  },
+  {
+    "timestamp" : "34:46-34:49",
+    "speaker" : "Speaker 2",
+    "text" : "But anyway, that's how we, that's, this is just."
+  },
+  {
+    "timestamp" : "34:49-34:50",
+    "speaker" : "Speaker 2",
+    "text" : "This is the world we live in."
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "But that's the fun of doing a film podcast, which our podcast isn't even really serious.",
+    "timestamp" : "34:50-34:55"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Like, Mike Cech can get.",
+    "timestamp" : "34:55-34:56"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "34:56-34:56",
+    "text" : "Yeah."
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "And they have the worst fan base in podcasting.",
+    "timestamp" : "34:57-34:59"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "I don't even want to look on their Reddit to see what a Killers of the Flower Moon response was.",
+    "timestamp" : "35:00-35:04"
+  },
+  {
+    "text" : "And ours are all nice, but I think you were getting a lot of blowback about.",
+    "timestamp" : "35:04-35:08",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "35:08-35:11",
+    "text" : "Yeah, not in a mean way, just in a way of like, well, how do you not understand this?",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "Scorsese is my favorite.",
+    "timestamp" : "35:11-35:12",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "It's like, all right, well, we can clear the air on a pod.",
+    "timestamp" : "35:12-35:14",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "35:15-35:20",
+    "text" : "You know, when I went to see A Serious Man, the Coen Brothers movie, like, Kulop really actively disliked it."
+  },
+  {
+    "timestamp" : "35:20-35:27",
+    "text" : "But it led to us talking for two hours about it after the movie, about me going like, oh, I think they were maybe trying to say this.",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "They were maybe trying to say this.",
+    "timestamp" : "35:27-35:28",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "And her going, oh, that's interesting.",
+    "speaker" : "Speaker 2",
+    "timestamp" : "35:28-35:29"
+  },
+  {
+    "timestamp" : "35:29-35:33",
+    "text" : "But why would they do, you know, like that is the exciting part about.",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "35:33-35:33",
+    "text" : "That's fun."
+  },
+  {
+    "timestamp" : "35:34-35:40",
+    "speaker" : "Speaker 2",
+    "text" : "Doing a movie podcast where it's not necessarily just like, oh, this is the funniest, best thing ever made."
+  },
+  {
+    "timestamp" : "35:40-35:41",
+    "text" : "Let's recap the plot.",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "35:41-35:43",
+    "text" : "or this is the worst thing ever made."
+  },
+  {
+    "text" : "Let's dunk on it.",
+    "speaker" : "Speaker 2",
+    "timestamp" : "35:43-35:44"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "It gets you talking.",
+    "timestamp" : "35:44-35:45"
+  },
+  {
+    "text" : "And I do think that the conversation around this movie,",
+    "timestamp" : "35:45-35:48",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "35:49-35:50",
+    "speaker" : "Speaker 1",
+    "text" : "while maybe not my favorite,"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "while flawed in my eyes sometimes,",
+    "timestamp" : "35:51-35:52"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "I bet it'll lead to movies being made",
+    "timestamp" : "35:53-35:56"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "about similar subject matter in a better way.",
+    "timestamp" : "35:56-35:58"
+  },
+  {
+    "text" : "So in that case, good for you, Scorsese.",
+    "speaker" : "Speaker 1",
+    "timestamp" : "35:58-36:01"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "Good for you.",
+    "timestamp" : "36:01-36:02"
+  },
+  {
+    "text" : "By the way, and I bet you appreciate",
+    "speaker" : "Speaker 1",
+    "timestamp" : "36:02-36:03"
+  },
+  {
+    "timestamp" : "36:04-36:05",
+    "speaker" : "Speaker 1",
+    "text" : "Sprague saying good for you."
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "I hope you're listening, Scorsese.",
+    "timestamp" : "36:05-36:07"
+  },
+  {
+    "timestamp" : "36:07-36:08",
+    "speaker" : "Speaker 1",
+    "text" : "We know you are."
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "Good for you.",
+    "timestamp" : "36:08-36:08"
+  },
+  {
+    "timestamp" : "36:09-36:11",
+    "speaker" : "Speaker 1",
+    "text" : "You know he listens on 2X Speed, by the way."
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "He talks on 2X Speed, but that's because he listens to so many podcasts that way.",
+    "timestamp" : "36:12-36:16"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "36:16-36:17",
+    "text" : "He's used to it."
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "Well, Scott, gosh, when it comes to a little film called Killers of the Flower Moon,",
+    "timestamp" : "36:17-36:23"
+  },
+  {
+    "timestamp" : "36:23-36:25",
+    "text" : "Scott and Sprague have seen.",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "36:26-36:27",
+    "text" : "And then they cleared the air."
+  },
+  {
+    "speaker" : "Speaker 3",
+    "timestamp" : "36:30-36:35",
+    "text" : "Scott Hasn't Seen is produced by Scott Ackerman, Sean Distin, and me, Brett Morris."
+  },
+  {
+    "text" : "Theme song by Devin Bryan.",
+    "speaker" : "Speaker 3",
+    "timestamp" : "36:36-36:37"
+  },
+  {
+    "timestamp" : "36:37-36:41",
+    "text" : "Sound off in the CBB World Discord, and we'll see you next week.",
+    "speaker" : "Speaker 3"
+  }
+]

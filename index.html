@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Scott Hasn't Seen – Transcript Search</title>
+
+<style>
+/* --------------------------------------- */
+/* DARK THEME (Spotify-style) + Blue Accent */
+/* --------------------------------------- */
+:root {
+  --bg: #121212;
+  --text: #E0E0E0;
+  --panel: #181818;
+  --panel-border: #333;
+  --sidebar-bg: #141414;
+  --sidebar-text: #E0E0E0;
+  --sidebar-sub: #999;
+  --sidebar-hover: #1F1F1F;
+  --accent: #1DB954; /* a pleasant greenish-blue accent — feel free to tweak */
+  --highlight-bg: #0055a5; /* blue highlight for phrase matches */
+  --btn-bg: #2A2A2A;
+  --btn-hover: #3A3A3A;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* SIDEBAR */
+#sidebar {
+  width: 280px;
+  background: var(--sidebar-bg);
+  color: var(--sidebar-text);
+  overflow-y: auto;
+  padding: 20px;
+  flex-shrink: 0;
+}
+#sidebar h2 {
+  margin-top: 0;
+  font-size: 20px;
+}
+
+#episodeSearch {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  border: none;
+  background: var(--panel);
+  color: var(--text);
+}
+
+#sortSelect {
+  width: 100%;
+  padding: 8px;
+  border-radius: 4px;
+  border: none;
+  background: var(--panel);
+  color: var(--text);
+  margin-bottom: 10px;
+}
+
+.episode {
+  padding: 12px;
+  border-bottom: 1px solid var(--panel-border);
+  cursor: pointer;
+}
+.episode:hover {
+  background: var(--sidebar-hover);
+}
+.ep-title { font-size: 15px; font-weight: bold; }
+.ep-date { font-size: 13px; color: var(--sidebar-sub); margin-top: 3px; }
+
+/* MAIN CONTENT */
+#content { flex: 1; display: flex; flex-direction: column; overflow: hidden; }
+
+/* HEADER */
+#header {
+  background: var(--panel);
+  padding: 10px 15px;
+  border-bottom: 1px solid var(--panel-border);
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+#searchInput {
+  flex: 1;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid var(--panel-border);
+  background: var(--panel);
+  color: var(--text);
+  border-radius: 5px;
+}
+
+#darkBtn {
+  padding: 8px 12px;
+  border: none;
+  border-radius: 4px;
+  background: var(--btn-bg);
+  color: var(--text);
+  cursor: pointer;
+}
+
+#darkBtn:hover {
+  background: var(--btn-hover);
+}
+
+/* RESULTS AREA */
+#results {
+  padding: 20px;
+  overflow-y: auto;
+  flex: 1;
+  background: var(--panel);
+  color: var(--text);
+}
+
+.result-item {
+  padding: 15px;
+  background: #222;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border: 1px solid var(--panel-border);
+  cursor: pointer;
+}
+.result-item:hover {
+  background: #2a2a2a;
+}
+.result-title { font-weight: bold; margin-bottom: 5px; }
+.result-timestamp { font-size: 14px; opacity: 0.8; margin-bottom: 8px; }
+
+/* TRANSCRIPT */
+.transcript-line {
+  margin-bottom: 15px;
+  padding: 10px;
+  border-left: 4px solid var(--panel-border);
+  background: #252525;
+  border-radius: 4px;
+  position: relative;
+}
+.transcript-timestamp {
+  font-weight: bold;
+  cursor: pointer;
+  color: var(--accent);
+}
+
+.copy-btn {
+  position: absolute;
+  right: 10px;
+  top: 6px;
+  background: var(--btn-bg);
+  color: var(--text);
+  border-radius: 4px;
+  padding: 2px 6px;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+mark {
+  background: var(--highlight-bg);
+  color: #fff;
+}
+
+/* PAGINATION */
+.pagination {
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.pagination button {
+  padding: 6px 12px;
+  border-radius: 6px;
+  border: none;
+  background: var(--btn-bg);
+  color: var(--text);
+  cursor: pointer;
+}
+.pagination button:hover {
+  background: var(--btn-hover);
+}
+.pagination span {
+  color: var(--text);
+}
+
+/* MOBILE LAYOUT */
+@media (max-width: 800px) {
+  body { flex-direction: column; height: auto; }
+  #sidebar { width: 100%; height: 240px; }
+  #content { height: calc(100vh - 240px); }
+}
+</style>
+</head>
+
+<body>
+<div id="sidebar">
+  <h2>Episodes</h2>
+
+  <input type="text" id="episodeSearch" placeholder="Filter episodes…">
+  <select id="sortSelect">
+    <option value="newest">Newest first</option>
+    <option value="oldest">Oldest first</option>
+    <option value="title">Title A–Z</option>
+  </select>
+
+  <div id="episodeList">Loading…</div>
+</div>
+
+<div id="content">
+  <div id="header">
+    <input type="text" id="searchInput" placeholder="Search exact phrase…">
+    <button id="darkBtn">Toggle Light</button>
+  </div>
+  <div id="results">Type a search or select an episode.</div>
+</div>
+
+<script>
+// -----------------------------------
+// Utility
+// -----------------------------------
+function safeFileName(title) {
+  return title.replace(/[\/:?"]/g, "-").trim();
+}
+function escapeRegExp(str) {
+  return str.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+// -----------------------------------
+// Data & Index
+// -----------------------------------
+let metadata = [];
+let transcriptCache = {};
+let searchIndex = [];
+
+const PAGE_SIZE = 50;
+let currentResults = [];
+let currentPage = 1;
+
+// Load metadata + build index
+async function loadMetadata() {
+  try {
+    const res = await fetch("scotthasntseen_metadata.json");
+    const meta = await res.json();
+
+    // sort newest first
+    meta.sort((a,b) => new Date(b.date) - new Date(a.date));
+
+    for (const ep of meta) {
+      const fname = "transcripts/" + safeFileName(ep.title) + ".json";
+      try {
+        const r = await fetch(fname);
+        if (!r.ok) continue;
+        const transcript = await r.json();
+        metadata.push(ep);
+        indexTranscript(ep, transcript);
+      } catch (e) {
+        // skip if not found
+      }
+    }
+    renderEpisodeSidebar();
+  } catch (err) {
+    console.error("Failed to load metadata:", err);
+    document.getElementById("episodeList").innerText = "Failed to load metadata.";
+  }
+}
+
+function indexTranscript(ep, transcript) {
+  for (const line of transcript) {
+    searchIndex.push({
+      title: ep.title,
+      date: ep.date,
+      timestamp: line.timestamp,
+      text: line.text,
+      lower: line.text.toLowerCase()
+    });
+  }
+}
+
+// -----------------------------------
+// Sidebar: render + filter + sort
+// -----------------------------------
+function renderEpisodeSidebar() {
+  const filter = document.getElementById("episodeSearch").value.toLowerCase();
+  const sortType = document.getElementById("sortSelect").value;
+
+  let eps = [...metadata];
+
+  if (filter) {
+    eps = eps.filter(e => e.title.toLowerCase().includes(filter));
+  }
+
+  if (sortType === "oldest") {
+    eps.sort((a,b) => new Date(a.date) - new Date(b.date));
+  } else if (sortType === "title") {
+    eps.sort((a,b) => a.title.localeCompare(b.title));
+  } else {
+    eps.sort((a,b) => new Date(b.date) - new Date(a.date));
+  }
+
+  const list = document.getElementById("episodeList");
+  list.innerHTML = "";
+  eps.forEach(ep => {
+    const div = document.createElement("div");
+    div.className = "episode";
+    div.innerHTML = `<div class="ep-title">${ep.title}</div><div class="ep-date">${ep.date}</div>`;
+    div.onclick = () => loadFullTranscript(ep.title);
+    list.appendChild(div);
+  });
+}
+
+document.getElementById("episodeSearch").addEventListener("input", renderEpisodeSidebar);
+document.getElementById("sortSelect").addEventListener("change", renderEpisodeSidebar);
+
+// -----------------------------------
+// Load & show full transcript
+// -----------------------------------
+async function fetchTranscript(title) {
+  if (transcriptCache[title]) return transcriptCache[title];
+  const fname = "transcripts/" + safeFileName(title) + ".json";
+  const res = await fetch(fname);
+  const json = await res.json();
+  transcriptCache[title] = json;
+  return json;
+}
+
+async function loadFullTranscript(title) {
+  const ep = metadata.find(e => e.title === title);
+  const transcript = await fetchTranscript(title);
+  renderTranscript(ep, transcript);
+}
+
+function renderTranscript(ep, transcript, highlight = "", scrollTs = "") {
+  const container = document.getElementById("results");
+  let html = `<h2>${ep.title}</h2><p><em>${ep.date}</em></p><hr><br>`;
+
+  transcript.forEach((line, i) => {
+    let text = line.text;
+    if (highlight) {
+      const esc = escapeRegExp(highlight);
+      const re = new RegExp(`\\b${esc}\\b`, "gi");
+      text = text.replace(re, m => `<mark>${m}</mark>`);
+    }
+    html += `
+      <div class="transcript-line" id="line-${i}">
+        <span class="copy-btn" onclick="navigator.clipboard.writeText('${line.text.replace(/'/g,"\\'")}')">Copy</span>
+        <div class="transcript-timestamp">${line.timestamp}</div>
+        <div>${text}</div>
+      </div>`;
+  });
+
+  container.innerHTML = html;
+
+  if (scrollTs) {
+    const idx = transcript.findIndex(l => l.timestamp === scrollTs);
+    const el = document.getElementById(`line-${idx}`);
+    if (el) el.scrollIntoView({ behavior: "smooth", block: "center" });
+  }
+}
+
+// -----------------------------------
+// Search logic: exact phrase + pagination + highlight in results
+// -----------------------------------
+let debounce;
+
+document.getElementById("searchInput").addEventListener("input", () => {
+  clearTimeout(debounce);
+  debounce = setTimeout(runSearch, 250);
+});
+
+function runSearch() {
+  const raw = document.getElementById("searchInput").value.trim();
+  if (!raw) {
+    document.getElementById("results").innerHTML = "Type a search or select an episode.";
+    return;
+  }
+  const query = raw.toLowerCase();
+  const esc = escapeRegExp(query);
+  const re = new RegExp(`\\b${esc}\\b`, "i");
+
+  currentResults = searchIndex.filter(item => re.test(item.lower));
+  currentPage = 1;
+  renderSearchPage(raw, re);
+}
+
+function renderSearchPage(rawQuery, re) {
+  const container = document.getElementById("results");
+  if (!currentResults.length) {
+    container.innerHTML = "<p>No results found.</p>";
+    return;
+  }
+
+  const start = (currentPage - 1) * PAGE_SIZE;
+  const end = start + PAGE_SIZE;
+  const pageItems = currentResults.slice(start, end);
+
+  let html = "";
+  for (const r of pageItems) {
+    // highlight phrase in the preview text
+    const escaped = escapeRegExp(rawQuery);
+    const preview = r.text.replace(new RegExp(`\\b${escaped}\\b`, "gi"), m => `<mark>${m}</mark>`);
+
+    html += `
+      <div class="result-item" onclick="openHit('${r.title.replace(/'/g,"\\'")}', '${r.timestamp.replace(/'/g,"\\'")}', '${r.text.replace(/'/g,"\\'")}')">
+        <div class="result-title">${r.title}</div>
+        <div class="result-timestamp">${r.date} — ${r.timestamp}</div>
+        <div>${preview}</div>
+      </div>`;
+  }
+
+  html += renderPaginationControls();
+  container.innerHTML = html;
+}
+
+function renderPaginationControls() {
+  const totalPages = Math.ceil(currentResults.length / PAGE_SIZE);
+  return `
+    <div class="pagination">
+      <button onclick="prevPage()" ${currentPage === 1 ? "disabled" : ""}>Prev</button>
+      <span>Page ${currentPage} / ${totalPages}</span>
+      <button onclick="nextPage()" ${currentPage === totalPages ? "disabled" : ""}>Next</button>
+    </div>`;
+}
+
+function prevPage() {
+  if (currentPage > 1) {
+    currentPage--;
+    renderSearchPage(document.getElementById("searchInput").value.trim(), null);
+  }
+}
+
+function nextPage() {
+  const totalPages = Math.ceil(currentResults.length / PAGE_SIZE);
+  if (currentPage < totalPages) {
+    currentPage++;
+    renderSearchPage(document.getElementById("searchInput").value.trim(), null);
+  }
+}
+
+async function openHit(title, timestamp, rawText) {
+  const ep = metadata.find(e => e.title === title);
+  const transcript = await fetchTranscript(title);
+  renderTranscript(ep, transcript, document.getElementById("searchInput").value.trim(), timestamp);
+}
+
+// -----------------------------------
+// Dark / Light toggle (just for possible light mode)
+// -----------------------------------
+document.getElementById("darkBtn").addEventListener("click", () => {
+  document.body.classList.toggle("light-mode");
+  if (document.body.classList.contains("light-mode")) {
+    document.documentElement.style.setProperty('--bg', '#fff');
+    document.documentElement.style.setProperty('--text', '#000');
+    document.documentElement.style.setProperty('--panel', '#f9f9f9');
+    document.documentElement.style.setProperty('--panel-border', '#ddd');
+    document.documentElement.style.setProperty('--sidebar-bg', '#222');
+    document.documentElement.style.setProperty('--sidebar-text', '#000');
+    document.documentElement.style.setProperty('--sidebar-sub', '#666');
+    document.documentElement.style.setProperty('--sidebar-hover', '#eee');
+    document.documentElement.style.setProperty('--highlight-bg', '#ffea00');
+  } else {
+    // revert to dark
+    document.documentElement.style.setProperty('--bg', '#121212');
+    document.documentElement.style.setProperty('--text', '#E0E0E0');
+    document.documentElement.style.setProperty('--panel', '#181818');
+    document.documentElement.style.setProperty('--panel-border', '#333');
+    document.documentElement.style.setProperty('--sidebar-bg', '#141414');
+    document.documentElement.style.setProperty('--sidebar-text', '#E0E0E0');
+    document.documentElement.style.setProperty('--sidebar-sub', '#999');
+    document.documentElement.style.setProperty('--sidebar-hover', '#1F1F1F');
+    document.documentElement.style.setProperty('--highlight-bg', '#0055a5');
+  }
+});
+
+// Initialize
+loadMetadata();
+</script>
+</body>
+</html>
