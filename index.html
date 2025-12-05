@@ -254,7 +254,9 @@ async function loadMetadata() {
     meta.sort((a,b) => new Date(b.date) - new Date(a.date));
 
     for (const ep of meta) {
-      const fname = "transcripts/" + safeFileName(ep.title) + ".json";
+      // We calculate the filename, then encode it so the URL is valid
+      const rawName = safeFileName(ep.title) + ".json";
+      const fname = "transcripts/" + encodeURIComponent(rawName);
       try {
         const r = await fetch(fname);
         if (!r.ok) continue;
@@ -324,7 +326,8 @@ document.getElementById("sortSelect").addEventListener("change", renderEpisodeSi
 // -----------------------------------
 async function fetchTranscript(title) {
   if (transcriptCache[title]) return transcriptCache[title];
-  const fname = "transcripts/" + safeFileName(title) + ".json";
+  const rawName = safeFileName(title) + ".json";
+  const fname = "transcripts/" + encodeURIComponent(rawName);
   const res = await fetch(fname);
   const json = await res.json();
   transcriptCache[title] = json;
